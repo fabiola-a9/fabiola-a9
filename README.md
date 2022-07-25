@@ -1,4 +1,26 @@
-### Hi there 👋
+##  👋
+
+### Biografia / Bio
+
+Inciando a carreira de Desenvolvedora Front-End, estudando atualmente na Prodabel - Empresa de Informática e Informação da Prefeitura de Belo Horizonte. Formada em Ciências Biológicas pela UFMG e Mestre em Ecologia, Conservação e Manejo de Vida Silvestre pela UFMG.
+🌱 Aprendendo - HTML5, CSS3, Java Script, JQuery, BootStrap
+
+
+Starting my career as a Front-End Developer, currently studying at Prodabel - Computer and Information Company of Belo Horizonte City Hall. Graduated in Biological Sciences from Federal University of Minas Gerais and Master in Ecology, Conservation and Wildlife Management from Federal University of Minas Gerais.
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiola-a9&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiola-a9&repo=devweek.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+## Onde me encontrar / Where to find me
+
+![LinkedIn](https://img.shields.io/badge/fabíola-ladeira-68812a128.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **fabiola-a9/fabiola-a9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
