@@ -16,7 +16,7 @@ Starting my career as a Front-End Developer, currently studying at Prodabel - Co
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiola-a9&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiola-a9&repo=curriculo.github.io)](https://github.com/fabiola-a9/curriculo.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiola-a9&repo=devweek.github.io)](https://github.com/fabiola-a9/devweek.github.io)
 
 ## Onde me encontrar / Where to find me
 
