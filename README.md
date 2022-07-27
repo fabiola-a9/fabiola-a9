@@ -20,7 +20,7 @@ Starting my career as a Front-End Developer, currently studying at Prodabel - Co
 
 ## Onde me encontrar / Where to find me
 
-![LinkedIn][(https://img.shields.io/badge/fabíola-ladeira-68812a128/.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabíola-ladeira-68812a128/)
+[![LinkedIn](https://img.shields.io/badge/fabíola-ladeira-68812a128/.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabíola-ladeira-68812a128/)
 
 <!--
 **fabiola-a9/fabiola-a9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
