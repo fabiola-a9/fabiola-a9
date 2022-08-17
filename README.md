@@ -13,10 +13,13 @@ Starting my career as a Front-End Developer, currently studying at Prodabel - Co
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiola-a9&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiola-a9&repo=devweek.github.io)](https://github.com/fabiola-a9/devweek.github.io)
+
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
 ## Onde me encontrar / Where to find me
 
