@@ -2,7 +2,7 @@
 
 ### Biografia / Bio
 
-Inciando a carreira de Desenvolvedora Front-End, estudando atualmente na Prodabel - Empresa de Informática e Informação da Prefeitura de Belo Horizonte. Formada em Ciências Biológicas pela UFMG e Mestre em Ecologia, Conservação e Manejo de Vida Silvestre pela UFMG.
+Inciando a carreira de Desenvolvedora web, estudando atualmente na Prodabel - Empresa de Informática e Informação da Prefeitura de Belo Horizonte. Formada em Ciências Biológicas pela UFMG e Mestre em Ecologia, Conservação e Manejo de Vida Silvestre pela UFMG.
 🌱 Aprendendo - HTML5, CSS3, Java Script, JQuery, BootStrap
 
 
