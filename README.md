@@ -2,11 +2,14 @@
 
 ### Biografia / Bio
 
-Inciando a carreira de Desenvolvedora web, estudando atualmente na Prodabel - Empresa de Informática e Informação da Prefeitura de Belo Horizonte. Formada em Ciências Biológicas pela UFMG e Mestre em Ecologia, Conservação e Manejo de Vida Silvestre pela UFMG.
-🌱 Aprendendo - HTML5, CSS3, Java Script, JQuery, BootStrap
+Inciando a carreira de Desenvolvedora web - curso concluído através da PRODABEL - HTML, CSS, JavaScript, Sass, SQL, Bootstrap, Jquery, Node.js.
+Formada em Ciências Biológicas pela UFMG e Mestre em Ecologia, Conservação e Manejo de Vida Silvestre pela UFMG.
+Sou ótima comunicadora, fui professora por muitos anos, tanto em escola pública como em cursos pré-Enem. Sou pró-ativa e sei resolver problemas com tranquilidade pela experiência em produção cultural de eventos e grupos percussivos de Maracatu.
+Possuo fluência em inglês. 
 
 
-Starting my career as a Front-End Developer, currently studying at Prodabel - Computer and Information Company of Belo Horizonte City Hall. Graduated in Biological Sciences from Federal University of Minas Gerais and Master in Ecology, Conservation and Wildlife Management from Federal University of Minas Gerais.
+
+Starting my career as a Front-End Developer, finished my studies at Prodabel - Computer and Information Company of Belo Horizonte City Hall. Graduated in Biological Sciences from Federal University of Minas Gerais and Master in Ecology, Conservation and Wildlife Management from Federal University of Minas Gerais.
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
